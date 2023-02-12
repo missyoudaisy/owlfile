@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns="urn:webprotege:ontology:85416379-c528-4f2c-a178-3742ab14069c#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:webprotege="http://webprotege.stanford.edu/">
+
+<rdf:Description rdf:about="urn:webprotege:ontology:85416379-c528-4f2c-a178-3742ab14069c">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Ontology"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://webprotege.stanford.edu/R7Y1mjc9SGYwRPJgK2WF6cH">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	<rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+	<rdfs:label xml:lang="zh-cn">被取代</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://webprotege.stanford.edu/RB0XONyGXxnMLnLoBBuMqxF">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	<rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+	<rdfs:label xml:lang="zh-cn">配备</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://webprotege.stanford.edu/RDaq524783tobEfqn0o8zc">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	<rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+	<rdfs:label xml:lang="zh-cn">现用作</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://webprotege.stanford.edu/RR0hd3mKueR2HWs316wL5o">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	<rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+	<rdfs:label xml:lang="zh-cn">研制</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://webprotege.stanford.edu/RfMwQxSE9bytJ6P1IBZmlw">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	<rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+	<rdfs:label xml:lang="zh-cn">包括</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://webprotege.stanford.edu/R3tfoDC0qsLC6vZbsatyaY">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	<rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+	<rdfs:label xml:lang="zh-cn">动力装置</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://webprotege.stanford.edu/R726sHDRBqscLOAyvObZyzu">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	<rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+	<rdfs:label xml:lang="zh-cn">燃料</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://webprotege.stanford.edu/R77Sf69hjWEtssWYDKDuZb1">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	<rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+	<rdfs:label xml:lang="zh-cn">反应时间</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://webprotege.stanford.edu/R7X49BgWY6zK8FbUmeSrpf5">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	<rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+	<rdfs:label xml:lang="zh-cn">长度</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://webprotege.stanford.edu/R7jUFzhQrjs0Uq9yRDXkKOf">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	<rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+	<rdfs:label xml:lang="zh-cn">发射重量</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://webprotege.stanford.edu/R7pvi9MPkp56xVChfkAa201">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	<rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+	<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">弹头型号</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://webprotege.stanford.edu/R8BW8TlI2XZSS6zFB5ERfGJ">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	<rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+	<rdfs:label xml:lang="zh-cn">命中精度</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://webprotege.stanford.edu/R90OLDH9wfCKNBQW5WMPnaC">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	<rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+	<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">直径</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://webprotege.stanford.edu/R99zohVV72hQovzlMFnJv20">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	<rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+	<rdfs:label xml:lang="zh-cn">别名</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://webprotege.stanford.edu/R9hEvL4zQhO0oUJgu9jhXBq">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	<rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+	<rdfs:label xml:lang="zh-cn">发射方式</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://webprotege.stanford.edu/RBTnOEbzxOQ8XBZRA5x0ZPV">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	<rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+	<rdfs:label xml:lang="zh-cn">起飞重量</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://webprotege.stanford.edu/RBXKpCuo4yBYwAS1x7H7wEW">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	<rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+	<rdfs:label xml:lang="zh-cn">开始研制时间</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://webprotege.stanford.edu/RBZiTWh5EB5cXJlYsXOVswU">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	<rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+	<rdfs:label xml:lang="zh-cn">最大射程</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://webprotege.stanford.edu/RBbWzXNwndqZBrcPGlIQQN5">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	<rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+	<rdfs:label xml:lang="zh-cn">单价</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://webprotege.stanford.edu/RBr4AstrIrJcToDCa6wJi0f">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	<rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+	<rdfs:label xml:lang="zh-cn">服役时间</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://webprotege.stanford.edu/RCu8dM7Z5QNqIHQjYcMicRq">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	<rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+	<rdfs:label xml:lang="zh-cn">退役时间</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://webprotege.stanford.edu/RDbnYfsHn9tSzsJ9hITYCRJ">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	<rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+	<rdfs:label xml:lang="zh-cn">宽度</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://webprotege.stanford.edu/RDikx7TRopL5JA0zZOi0o5E">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	<rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+	<rdfs:label xml:lang="zh-cn">投掷重量</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://webprotege.stanford.edu/RQ1xvbtjc4MZlHtTySuZzc">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	<rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+	<rdfs:label xml:lang="zh-cn">核弹当量</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://webprotege.stanford.edu/Rhqg5vMA3oGkQMcE59yMmV">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	<rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+	<rdfs:label xml:lang="zh-cn">分导式弹头数量</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://webprotege.stanford.edu/Rnuf5DIQGs9XHrEuD8Nssp">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	<rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+	<rdfs:label xml:lang="zh-cn">弹头类型</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://webprotege.stanford.edu/RqsAUXGu32TnkZmxmFV41V">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	<rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+	<rdfs:label xml:lang="zh-cn">研制和装备费用</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://webprotege.stanford.edu/RsQulRealIUgRyLwMs8DV0">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	<rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+	<rdfs:label xml:lang="zh-cn">重量</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://webprotege.stanford.edu/RyQErExnvLmAYKtwIsDEfd">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	<rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+	<rdfs:label xml:lang="zh-cn">导引系统</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://webprotege.stanford.edu/REkyzWWx2sYZhyZYOzy4s3">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdfs:label xml:lang="zh-cn">陆基洲际弹道导弹</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://webprotege.stanford.edu/RPrYtjznuQWYE36dqpM51f">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdfs:label xml:lang="zh-cn">国家</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://webprotege.stanford.edu/R0JtTDFHIYb3dp9bGUSaol">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://webprotege.stanford.edu/RPrYtjznuQWYE36dqpM51f"/>
+	<webprotege:RR0hd3mKueR2HWs316wL5o rdf:resource="http://webprotege.stanford.edu/RCBFiv8jrmf0TBKhw1GUNYc"/>
+	<rdfs:label xml:lang="zh-cn">美国</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://webprotege.stanford.edu/R8E6k2yqtwKBlsOO2slllnM">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<webprotege:R8BW8TlI2XZSS6zFB5ERfGJ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">370~450米</webprotege:R8BW8TlI2XZSS6zFB5ERfGJ>
+	<rdfs:label xml:lang="zh-cn">MK12A弹头</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://webprotege.stanford.edu/R9I1tgi0jOkia7SMCicLlXV">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<webprotege:RR0hd3mKueR2HWs316wL5o rdf:resource="http://webprotege.stanford.edu/RDuiFn9d7ARjQj3XyGcJ7u8"/>
+	<rdfs:label xml:lang="zh-cn">波音飞机公司</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://webprotege.stanford.edu/RBONweVxYBWmPlqsqyB7uhT">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<webprotege:R8BW8TlI2XZSS6zFB5ERfGJ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">185~227米</webprotege:R8BW8TlI2XZSS6zFB5ERfGJ>
+	<rdfs:label xml:lang="zh-cn">MK12弹头</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://webprotege.stanford.edu/RBS6LCUsyhUGNeSloOiyTVf">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://webprotege.stanford.edu/REkyzWWx2sYZhyZYOzy4s3"/>
+	<webprotege:RB0XONyGXxnMLnLoBBuMqxF rdf:resource="http://webprotege.stanford.edu/RBeDi51gdiwNb9Wy306VrAq"/>
+	<webprotege:R3tfoDC0qsLC6vZbsatyaY rdf:datatype="http://www.w3.org/2001/XMLSchema#string">三级固体火箭发动机</webprotege:R3tfoDC0qsLC6vZbsatyaY>
+	<webprotege:R77Sf69hjWEtssWYDKDuZb1 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1分钟</webprotege:R77Sf69hjWEtssWYDKDuZb1>
+	<webprotege:R7X49BgWY6zK8FbUmeSrpf5 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">17米</webprotege:R7X49BgWY6zK8FbUmeSrpf5>
+	<webprotege:R8BW8TlI2XZSS6zFB5ERfGJ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1600米</webprotege:R8BW8TlI2XZSS6zFB5ERfGJ>
+	<webprotege:R90OLDH9wfCKNBQW5WMPnaC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1.67米</webprotege:R90OLDH9wfCKNBQW5WMPnaC>
+	<webprotege:R9hEvL4zQhO0oUJgu9jhXBq rdf:datatype="http://www.w3.org/2001/XMLSchema#string">地下井发射</webprotege:R9hEvL4zQhO0oUJgu9jhXBq>
+	<webprotege:RBTnOEbzxOQ8XBZRA5x0ZPV rdf:datatype="http://www.w3.org/2001/XMLSchema#string">31.7吨</webprotege:RBTnOEbzxOQ8XBZRA5x0ZPV>
+	<webprotege:RBZiTWh5EB5cXJlYsXOVswU rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10140公里</webprotege:RBZiTWh5EB5cXJlYsXOVswU>
+	<webprotege:RCu8dM7Z5QNqIHQjYcMicRq rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1974年</webprotege:RCu8dM7Z5QNqIHQjYcMicRq>
+	<webprotege:Rnuf5DIQGs9XHrEuD8Nssp rdf:datatype="http://www.w3.org/2001/XMLSchema#string">单弹头</webprotege:Rnuf5DIQGs9XHrEuD8Nssp>
+	<rdfs:label xml:lang="zh-cn">民兵1B</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://webprotege.stanford.edu/RBeDi51gdiwNb9Wy306VrAq">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<webprotege:RQ1xvbtjc4MZlHtTySuZzc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100万吨</webprotege:RQ1xvbtjc4MZlHtTySuZzc>
+	<webprotege:RsQulRealIUgRyLwMs8DV0 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">450公斤</webprotege:RsQulRealIUgRyLwMs8DV0>
+	<rdfs:label xml:lang="zh-cn">MK11式弹头</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://webprotege.stanford.edu/RCBFiv8jrmf0TBKhw1GUNYc">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdfs:label xml:lang="zh-cn">无人作战飞机</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://webprotege.stanford.edu/RCap1c3g2HOa32ApQnmgUMt">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://webprotege.stanford.edu/REkyzWWx2sYZhyZYOzy4s3"/>
+	<webprotege:R3tfoDC0qsLC6vZbsatyaY rdf:datatype="http://www.w3.org/2001/XMLSchema#string">三级固体火箭发动机</webprotege:R3tfoDC0qsLC6vZbsatyaY>
+	<webprotege:R90OLDH9wfCKNBQW5WMPnaC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1.67米</webprotege:R90OLDH9wfCKNBQW5WMPnaC>
+	<webprotege:RBr4AstrIrJcToDCa6wJi0f rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1962年</webprotege:RBr4AstrIrJcToDCa6wJi0f>
+	<webprotege:RCu8dM7Z5QNqIHQjYcMicRq rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1969年</webprotege:RCu8dM7Z5QNqIHQjYcMicRq>
+	<webprotege:Rnuf5DIQGs9XHrEuD8Nssp rdf:datatype="http://www.w3.org/2001/XMLSchema#string">单弹头</webprotege:Rnuf5DIQGs9XHrEuD8Nssp>
+	<rdfs:label xml:lang="zh-cn">民兵1A</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://webprotege.stanford.edu/RDMVpUef8H8HhOZPGwAJBWp">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdfs:label xml:lang="zh-cn">运载火箭</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://webprotege.stanford.edu/RDuiFn9d7ARjQj3XyGcJ7u8">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://webprotege.stanford.edu/REkyzWWx2sYZhyZYOzy4s3"/>
+	<webprotege:R7Y1mjc9SGYwRPJgK2WF6cH rdf:resource="http://webprotege.stanford.edu/RT76Th6tieFD4miOW39MCR"/>
+	<webprotege:R7Y1mjc9SGYwRPJgK2WF6cH rdf:resource="http://webprotege.stanford.edu/RtLaLrCwsXHXOJkLJouqpg"/>
+	<webprotege:RDaq524783tobEfqn0o8zc rdf:resource="http://webprotege.stanford.edu/RDMVpUef8H8HhOZPGwAJBWp"/>
+	<webprotege:RfMwQxSE9bytJ6P1IBZmlw rdf:resource="http://webprotege.stanford.edu/RBS6LCUsyhUGNeSloOiyTVf"/>
+	<webprotege:RfMwQxSE9bytJ6P1IBZmlw rdf:resource="http://webprotege.stanford.edu/RCap1c3g2HOa32ApQnmgUMt"/>
+	<webprotege:RBXKpCuo4yBYwAS1x7H7wEW rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1958年</webprotege:RBXKpCuo4yBYwAS1x7H7wEW>
+	<webprotege:RBbWzXNwndqZBrcPGlIQQN5 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">132万美元</webprotege:RBbWzXNwndqZBrcPGlIQQN5>
+	<webprotege:RqsAUXGu32TnkZmxmFV41V rdf:datatype="http://www.w3.org/2001/XMLSchema#string">60亿美元</webprotege:RqsAUXGu32TnkZmxmFV41V>
+	<rdfs:label xml:lang="zh-cn">民兵1</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://webprotege.stanford.edu/RT76Th6tieFD4miOW39MCR">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<webprotege:R3tfoDC0qsLC6vZbsatyaY rdf:datatype="http://www.w3.org/2001/XMLSchema#string">三级固体火箭发动机</webprotege:R3tfoDC0qsLC6vZbsatyaY>
+	<webprotege:R7X49BgWY6zK8FbUmeSrpf5 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18.263米</webprotege:R7X49BgWY6zK8FbUmeSrpf5>
+	<webprotege:R90OLDH9wfCKNBQW5WMPnaC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1.67米</webprotege:R90OLDH9wfCKNBQW5WMPnaC>
+	<webprotege:R9hEvL4zQhO0oUJgu9jhXBq rdf:datatype="http://www.w3.org/2001/XMLSchema#string">地下井热发射</webprotege:R9hEvL4zQhO0oUJgu9jhXBq>
+	<webprotege:RBZiTWh5EB5cXJlYsXOVswU rdf:datatype="http://www.w3.org/2001/XMLSchema#string">14816公里</webprotege:RBZiTWh5EB5cXJlYsXOVswU>
+	<webprotege:Rhqg5vMA3oGkQMcE59yMmV rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3个</webprotege:Rhqg5vMA3oGkQMcE59yMmV>
+	<webprotege:Rnuf5DIQGs9XHrEuD8Nssp rdf:datatype="http://www.w3.org/2001/XMLSchema#string">分导式多弹头</webprotege:Rnuf5DIQGs9XHrEuD8Nssp>
+	<webprotege:RyQErExnvLmAYKtwIsDEfd rdf:datatype="http://www.w3.org/2001/XMLSchema#string">改良NS-20惯性平衡导引控制系统</webprotege:RyQErExnvLmAYKtwIsDEfd>
+	<rdfs:label xml:lang="zh-cn">民兵3</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://webprotege.stanford.edu/RtLaLrCwsXHXOJkLJouqpg">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<webprotege:R3tfoDC0qsLC6vZbsatyaY rdf:datatype="http://www.w3.org/2001/XMLSchema#string">三级固体火箭发动机</webprotege:R3tfoDC0qsLC6vZbsatyaY>
+	<webprotege:R726sHDRBqscLOAyvObZyzu rdf:datatype="http://www.w3.org/2001/XMLSchema#string">固态与液态燃料</webprotege:R726sHDRBqscLOAyvObZyzu>
+	<webprotege:R7X49BgWY6zK8FbUmeSrpf5 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">17.53米</webprotege:R7X49BgWY6zK8FbUmeSrpf5>
+	<webprotege:R7jUFzhQrjs0Uq9yRDXkKOf rdf:datatype="http://www.w3.org/2001/XMLSchema#string">33112公斤</webprotege:R7jUFzhQrjs0Uq9yRDXkKOf>
+	<webprotege:R90OLDH9wfCKNBQW5WMPnaC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1.67米</webprotege:R90OLDH9wfCKNBQW5WMPnaC>
+	<webprotege:R99zohVV72hQovzlMFnJv20 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LGM-30F</webprotege:R99zohVV72hQovzlMFnJv20>
+	<webprotege:R9hEvL4zQhO0oUJgu9jhXBq rdf:datatype="http://www.w3.org/2001/XMLSchema#string">三节推进</webprotege:R9hEvL4zQhO0oUJgu9jhXBq>
+	<webprotege:R9hEvL4zQhO0oUJgu9jhXBq rdf:datatype="http://www.w3.org/2001/XMLSchema#string">地下井热发射</webprotege:R9hEvL4zQhO0oUJgu9jhXBq>
+	<webprotege:RBZiTWh5EB5cXJlYsXOVswU rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12500公里</webprotege:RBZiTWh5EB5cXJlYsXOVswU>
+	<webprotege:RCu8dM7Z5QNqIHQjYcMicRq rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1995年</webprotege:RCu8dM7Z5QNqIHQjYcMicRq>
+	<webprotege:RDbnYfsHn9tSzsJ9hITYCRJ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1.84米</webprotege:RDbnYfsHn9tSzsJ9hITYCRJ>
+	<webprotege:RDikx7TRopL5JA0zZOi0o5E rdf:datatype="http://www.w3.org/2001/XMLSchema#string">726公斤</webprotege:RDikx7TRopL5JA0zZOi0o5E>
+	<webprotege:Rnuf5DIQGs9XHrEuD8Nssp rdf:datatype="http://www.w3.org/2001/XMLSchema#string">单弹头</webprotege:Rnuf5DIQGs9XHrEuD8Nssp>
+	<webprotege:RyQErExnvLmAYKtwIsDEfd rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NS-17惯性平衡导引控制系统</webprotege:RyQErExnvLmAYKtwIsDEfd>
+	<webprotege:RyQErExnvLmAYKtwIsDEfd rdf:datatype="http://www.w3.org/2001/XMLSchema#string">改良NS-20惯性平衡导引控制系统</webprotege:RyQErExnvLmAYKtwIsDEfd>
+	<rdfs:label xml:lang="zh-cn">民兵2</rdfs:label>
+</rdf:Description>
+
+</rdf:RDF>
